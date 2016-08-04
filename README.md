@@ -9,5 +9,4 @@ Test Git Branch Model
 
 ## Featrue 4
 
-
 ## Feature 5
